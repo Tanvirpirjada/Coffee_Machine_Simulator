@@ -28,6 +28,9 @@ Strategy Design Pattern
 
 # ScreenShots
 
+<img src="https://user-images.githubusercontent.com/111841729/231751756-823034bf-9867-42ac-b6e5-584f79f58f0c.png" alt="Screenshot" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/111841729/231751772-a49c7544-8a08-4ae7-a118-2f7eee183fca.png" alt="Screenshot" width="50%" height="50%">
+
+
 ![Screenshot (123)](https://user-images.githubusercontent.com/111841729/231751756-823034bf-9867-42ac-b6e5-584f79f58f0c.png)
 ![Screenshot (124)](https://user-images.githubusercontent.com/111841729/231751772-a49c7544-8a08-4ae7-a118-2f7eee183fca.png)
 ![Screenshot (125)](https://user-images.githubusercontent.com/111841729/231751812-6ad931f8-6082-4f6b-ba6c-9e55d7669768.png)
