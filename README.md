@@ -27,10 +27,6 @@ Strategy Design Pattern
 * The Strategy Design Pattern is used to implement the recipe for each type of coffee. Each type of coffee is defined as a separate strategy with its required ingredients and price. When the user selects a specific type of coffee, the corresponding strategy is invoked, and the coffee machine dispenses the coffee based on that strategy.
 
 # ScreenShots
-
-<img src="https://user-images.githubusercontent.com/111841729/231751756-823034bf-9867-42ac-b6e5-584f79f58f0c.png" alt="Screenshot" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/111841729/231751772-a49c7544-8a08-4ae7-a118-2f7eee183fca.png" alt="Screenshot" width="50%" height="50%">
-
-
 ![Screenshot (123)](https://user-images.githubusercontent.com/111841729/231751756-823034bf-9867-42ac-b6e5-584f79f58f0c.png)
 ![Screenshot (124)](https://user-images.githubusercontent.com/111841729/231751772-a49c7544-8a08-4ae7-a118-2f7eee183fca.png)
 ![Screenshot (125)](https://user-images.githubusercontent.com/111841729/231751812-6ad931f8-6082-4f6b-ba6c-9e55d7669768.png)
@@ -42,6 +38,8 @@ Strategy Design Pattern
 [Screenshot (131)](https://user-images.githubusercontent.com/111841729/231751935-54b2d133-559c-4873-9a9f-cd82ddf07660.png)
 ![Screenshot (132)](https://user-images.githubusercontent.com/111841729/231751988-9fdf0a41-f8de-4f37-a5c7-b504b5415037.png)
 ![Screenshot (133)](https://user-images.githubusercontent.com/111841729/231752013-345b6089-d162-44cc-af8a-823dc07aa5eb.png)
+
+<img src="https://user-images.githubusercontent.com/111841729/231751756-823034bf-9867-42ac-b6e5-584f79f58f0c.png" alt="Screenshot" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/111841729/231751772-a49c7544-8a08-4ae7-a118-2f7eee183fca.png" alt="Screenshot" width="50%" height="50%">
 
 # How to Run!
 
