@@ -1,6 +1,7 @@
-# Coffee Machine Simulator using Java and Strategy Design Pattern
+# Coffee Machine Simulator 
 
-## This is a console application built using Java programming language and Strategy Design Pattern. It simulates a coffee machine that can make different types of coffee and perform various operations such as filling ingredients, checking remaining ingredients, and taking money from the machine's money box.
+##  The Coffee Machine Simulator is a console-based application that allows users to manage a coffee machine that can make various types of coffee. The program uses the Strategy design pattern to enable users to choose different types of coffee and calculate the price and amount of ingredients required to make it. The program also uses object-oriented programming (OOPs) concepts such as encapsulation, abstraction, inheritance, and polymorphism to achieve its functionality.
+
 
 # Features
 * The coffee machine can make three types of coffee: Espresso, Latte, and Cappuccino, each with their specific recipe in terms of required ingredients and price.
