@@ -1,0 +1,2 @@
+# Coffee_Machine_Simulator
+Coffee_Machine_Simulator Using Strategy pattern
